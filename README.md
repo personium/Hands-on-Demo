@@ -1,5 +1,5 @@
 # Hands-on Demo 2017  
-Instructions of hands-on demo for Fujitsu Forum Europe.  
+Instructions of hands-on demo.  
 
 # App Overview  
 The following diagram shows all types of app that can be used on different Personium object level (unit or cell).  
