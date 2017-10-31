@@ -6,6 +6,7 @@ You get to create your own app user cell and ask Peter Pan's permission to view 
 
 ## Prerequisites  
 Create a Person cell and login to the HomeApp.  
+
 1. Click the following image to access the Cell Creator Wizard (demo version) and then ask the presenter to switch to the "REAL" version for you.   
 [![Cell Creator](doc/cell_creator_wizard.png)](https://demo.personium.io/app-uc-cell-creator-wizard/__/index.html)  
 1. Enter a name for the cell. Click NEXT.  
@@ -36,6 +37,7 @@ Create a Person cell and login to the HomeApp.
     1. Confirm that Peter Pan is added.  
     ![](doc/homeapp_community_list.png)  
     1. Go back to the main screen.  
+
 1. From App Market, install Calorie Smile.  
 The main screen will be displayed automatically.  
 1. Launch Calorie Smile and display the photo diaries.  
