@@ -1,5 +1,5 @@
 # Hands-on Demo 2017  
-Instructions of hands-on demo for audience.  
+Instructions of hands-on demo for participant.  
 
 # Basic Scenario #2  
 You get to create your own app user cell and ask Peter Pan's permission to read his ~~secret~~ MyBoard message.  
