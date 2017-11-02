@@ -11,7 +11,7 @@ Scan the following QR Code or click the image.
 ![](doc/peter_pan_homeapp_login.png)  
 
 # How to display your QR Code (Cell URL)  
-1. Tap the "Hat" to display your QR Code (Cell URL ) which the audience will scan it.  
+1. Tap the "Hat" to display your QR Code (Cell URL ) which the participant will scan it.  
 ![Peter Pan HomeApp Screen](doc/peter_pan_homeapp_display_qrcode.png)  
 
 # How to approve read permission (Calorie Smile)  

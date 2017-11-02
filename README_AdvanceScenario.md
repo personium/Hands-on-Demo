@@ -1,5 +1,5 @@
 # Hands-on Demo 2017  
-Instructions of hands-on demo for audience.  
+Instructions of hands-on demo for participant.  
 
 # Advance Scenario  
 You get to create a [minimal app](https://github.com/personium/template-app-cell) and launch it from HomeApp.  
