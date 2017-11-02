@@ -48,3 +48,5 @@ The main screen will be displayed automatically.
 	1. Close the dialog.  
 	1. Close the side menu.  
 1. Wait for Peter Pan's approval.  
+1. View Peter Pan's food diaries.  
+![](doc/john_doe_calorie_smile_viewing_peter_pan_photos.png)  
