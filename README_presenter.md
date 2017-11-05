@@ -22,3 +22,10 @@ Scan the following QR Code or click the image.
 1. Tap the message and then tap "Approve".  
 ![Read Permission Request](doc/peter_pan_calorie_smile_approve_request.png)  
 1. Finish. Go back to the home screen.  
+
+# How to restore back to original  
+Restore MinimalApp's files  
+1. Access the Cell Manager.  
+1. Upload the original files of the MinimalApp.  
+    1. [original profile.json](doc/profile.json)  
+    1. [original app.html](doc/app.html)  
