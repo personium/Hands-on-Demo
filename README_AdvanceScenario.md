@@ -6,13 +6,13 @@ You get to modify the [MinimalApp](https://github.com/personium/template-app-cel
 
 1. Access the MinimalApp cell from the [Cell Manager](  
 https://demo.personium.io/app-minimal/io_personium_demo_cell-manager/src/login.html)  
-![](doc/minimal_app_cell_manager_login.png)
+[![](doc/minimal_app_cell_manager_login.png)](https://demo.personium.io/app-minimal/io_personium_demo_cell-manager/src/login.html)  
 
 1. Click "main" to display the contents of the main box.  
-![](doc/minimal_app_cell_manager.png)  
+[![](doc/minimal_app_cell_manager.png)](https://demo.personium.io/app-minimal/io_personium_demo_cell-manager/src/login.html)  
 
 1. Click profile.json to download it.  
-![](doc/minimal_app_cell_manager_main_box.png)  
+[![](doc/minimal_app_cell_manager_main_box.png)](https://demo.personium.io/app-minimal/io_personium_demo_cell-manager/src/login.html)  
 
 1. Modify the downloaded file (profile.json). 
     1. Before  

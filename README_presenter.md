@@ -8,7 +8,7 @@ Perform the following procedures to approve a Read Permission Request.
 Scan the following QR Code or click the image.  
 [![Peter Pan HomeApp QR Code](doc/peter_pan_homeapp_qrcode.png)](https://demo.personium.io/demo-english-user-003/io_personium_demo_HomeApplication/src/login.html)  
 1. Login  
-![](doc/peter_pan_homeapp_login.png)  
+[![](doc/peter_pan_homeapp_login.png)](https://demo.personium.io/demo-english-user-003/io_personium_demo_HomeApplication/src/login.html)  
 
 # How to display your QR Code (Cell URL)  
 1. Tap the "Hat" to display your QR Code (Cell URL ) which the participant will scan it.  
